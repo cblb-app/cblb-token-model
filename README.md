@@ -5,7 +5,7 @@ Inspired by **Torricelli's Trumpet**, appropriately increase the ratio and displ
 ![](./imgs/GabrielHorn.png)
 
 CBLB token issuance formula  
-$$issueAmountPerCheckin = 144600/(checkinIndex + 100)$$
+![](./imgs/formula.svg)
 
 The document `token-issue-model.ipynb` contains a simulation of the issuance chart of CBLB token.
 
